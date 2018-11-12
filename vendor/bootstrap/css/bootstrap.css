@@ -437,7 +437,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #fce3e3;
 }
 
 .list-unstyled {
@@ -508,7 +508,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #3ee8ad;
   word-break: break-word;
 }
 
@@ -1637,16 +1637,16 @@ pre code {
 .table-warning,
 .table-warning > th,
 .table-warning > td {
-  background-color: #ffeeba;
+  background-color: #ffbaba;
 }
 
 .table-hover .table-warning:hover {
-  background-color: #ffe8a1;
+  background-color: #ffa1a1;
 }
 
 .table-hover .table-warning:hover > td,
 .table-hover .table-warning:hover > th {
-  background-color: #ffe8a1;
+  background-color: #ffa1a1;
 }
 
 .table-danger,
@@ -3971,6 +3971,7 @@ input[type="button"].btn-block {
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+    
 }
 
 .navbar > .container,
@@ -3983,6 +3984,7 @@ input[type="button"].btn-block {
   align-items: center;
   -ms-flex-pack: justify;
   justify-content: space-between;
+    
 }
 
 .navbar-brand {
@@ -4007,6 +4009,7 @@ input[type="button"].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+    
 }
 
 .navbar-nav .nav-link {
