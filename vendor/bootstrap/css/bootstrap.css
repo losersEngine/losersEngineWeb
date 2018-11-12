@@ -648,9 +648,9 @@ pre code {
 }
 
 .col-3 {
-  -ms-flex: 0 0 25%;
-  flex: 0 0 25%;
-  max-width: 25%;
+  -ms-flex: 0 0 10%;
+  flex: 0 0 10%;
+  max-width: 0%;
 }
 
 .col-4 {
@@ -3455,6 +3455,7 @@ input[type="button"].btn-block {
   border-radius: 0.2rem;
 }
 
+
 .input-group > .input-group-prepend > .btn,
 .input-group > .input-group-prepend > .input-group-text,
 .input-group > .input-group-append:not(:last-child) > .btn,
@@ -5810,11 +5811,12 @@ button.close {
 
 .carousel {
   position: relative;
+    width: 300px;
 }
 
 .carousel-inner {
   position: relative;
-  width: 100%;
+  width: 300px;
   overflow: hidden;
 }
 
@@ -5823,7 +5825,7 @@ button.close {
   display: none;
   -ms-flex-align: center;
   align-items: center;
-  width: 100%;
+  width: 300px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-perspective: 1000px;
