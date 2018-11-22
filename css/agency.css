@@ -7,6 +7,12 @@
 body {
   overflow-x: hidden;
   font-family: 'Roboto Slab', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    /*background-image: url(fondo3.gif);*/
+   /*background-position:center;*/
+    
+  
+  
+   
 }
 
 p {
@@ -184,7 +190,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/header-bg.gif");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -194,7 +200,7 @@ header.masthead {
 header.masthead2 {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg2.jpg");
+  background-image: url("../img/header-bg2.gif");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -314,6 +320,7 @@ header.masthead2 .intro-text .intro-heading {
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
   opacity: 1;
+
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -636,7 +643,9 @@ header.masthead2 .intro-text .intro-heading {
   margin-bottom: 50px;
   text-align: center;
 }
-
+.team-member:hover{
+    transform: scale(1.2);
+}
 .team-member img {
   width: 225px;
   height: 225px;
