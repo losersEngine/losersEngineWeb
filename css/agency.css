@@ -74,7 +74,7 @@ section h3.section-subheading {
 
 @media (min-width: 768px) {
   section {
-    padding: 70px 0;
+    padding: 150px;
   }
 }
 
@@ -86,13 +86,15 @@ section h3.section-subheading {
 
 .btn-xl {
   font-size: 18px;
-  padding: 20px 40px;
+  padding: 10px 40px;
+  margin-left: auto;
  
 }
 
 .btn-primary {
   background-color: #ff0000;
   border-color: #ff0000;
+    text-align: center;
   
 }
 

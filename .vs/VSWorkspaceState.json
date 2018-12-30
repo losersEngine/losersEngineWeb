@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\vendor",
+    "\\vendor\\bootstrap",
+    "\\vendor\\bootstrap\\css"
   ],
+  "SelectedNode": "\\css\\agency.css",
   "PreviewInSolutionExplorer": false
 }
