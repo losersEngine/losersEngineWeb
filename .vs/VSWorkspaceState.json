@@ -4,8 +4,10 @@
     "\\css",
     "\\vendor",
     "\\vendor\\bootstrap",
-    "\\vendor\\bootstrap\\css"
+    "\\vendor\\bootstrap\\css",
+    "\\vendor\\fontawesome-free",
+    "\\vendor\\fontawesome-free\\css"
   ],
-  "SelectedNode": "\\css\\agency.css",
+  "SelectedNode": "\\vendor\\bootstrap\\css\\bootstrap.min.css",
   "PreviewInSolutionExplorer": false
 }
