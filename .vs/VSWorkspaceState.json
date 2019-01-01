@@ -2,12 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\css",
-    "\\vendor",
-    "\\vendor\\bootstrap",
-    "\\vendor\\bootstrap\\css",
-    "\\vendor\\fontawesome-free",
-    "\\vendor\\fontawesome-free\\css"
+    "\\vendor\\bootstrap"
   ],
-  "SelectedNode": "\\vendor\\bootstrap\\css\\bootstrap.min.css",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
